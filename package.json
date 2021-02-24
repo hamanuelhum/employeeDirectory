@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "node": "^15.8.0",
+    "node-fetch": "^2.6.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
